@@ -1,4 +1,4 @@
-# 🚗 Parking System (License Plate OCR Pipeline)
+# 🚗 Smart Gate System (License Plate OCR Pipeline)
 
 YOLO 기반 차량 번호판 인식 및 Firebase 업로드 시스템  
 디지털영상처리 실습 과제를 위해 제작된 프로젝트입니다.
