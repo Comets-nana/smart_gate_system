@@ -1,5 +1,5 @@
 # 🖥️ System Setting Guide  
-Parking System – License Plate OCR Pipeline  
+Smart Gate System – License Plate OCR Pipeline  
 (환경 세팅 전용 문서)
 
 ---
